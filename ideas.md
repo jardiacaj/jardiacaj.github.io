@@ -14,3 +14,7 @@ permalink: /ideas
 * Asking for feedback is a superpower
 * My smartphone journey
 * Fitbit vs Casio
+
+
+Prompts:
+* Help me improve the writing style without changing the tone. Especially correct typos, grammatical errors, and such.
