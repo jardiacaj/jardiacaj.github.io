@@ -18,17 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: joanardiaca.net
+email: qcadzkaty@mozmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-domain: jardiacaj.github.io
+  This is my personal site. I write about tech, life, and other stuff.
+domain: joanardiaca.net
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jardiacaj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joanardiaca.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jardiacaj
+
+author:
+  name: Joan Ardiaca Jové
+  email: qcadzkaty@mozmail.com
+  url: "https://joanardiaca.net"
 
 timezone: Europe/Berlin
 
@@ -37,15 +40,20 @@ timezone: Europe/Berlin
 remote_theme: jekyll/minima@0b7ca6b
 minima:
   skin: auto
-  # nav_pages:
-  #   - about.md
-  #   - portfolio.md
+  nav_pages:
+    - contributing.md
+    - about.md
   social_links:
-    - title: jardiacaj GitHub
+    - title: GitHub
       icon: github
       url: "https://github.com/jardiacaj"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/joan-ardiaca-jov%C3%A9-2365571b6/"
+  show_excerpts: true
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-remote-theme
 
 # Exclude from processing.
