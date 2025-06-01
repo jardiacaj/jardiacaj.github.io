@@ -4,7 +4,7 @@ title: Ideas
 permalink: /ideas
 ---
 
-* The Internet sucks today
+* The Internet sucks today. Cookies, accepting hundreds of vendors, or pay. Ads ads ads. Slop.
 * Helm sucks
 * NVC
 * Just for fun
