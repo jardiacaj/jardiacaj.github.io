@@ -14,6 +14,12 @@ This site uses no cookies 🎉
 
 ### Imprint
 
-Joan Ardiaca Jové
+Parloa c/o Joan Ardiaca Jové
+
+Schönhauser Allee 9
+
+10119 Berlin
+
+### Contact
 
 Email: [qcadzkaty@mozmail.com](mailto:qcadzkaty@mozmail.com)

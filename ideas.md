@@ -14,6 +14,7 @@ permalink: /ideas
 * Asking for feedback is a superpower
 * My smartphone journey
 * Fitbit vs Casio
+* improve about page
 
 
 Prompts:
