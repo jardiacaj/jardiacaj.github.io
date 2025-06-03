@@ -12,7 +12,7 @@ permalink: /ideas
 * Passing computed values to subcharts in Helm
 * Stating the obvious: backups incient, rollback incident, strategies, daring to say what everyone knows to be true
 * Asking for feedback is a superpower
-* My smartphone journey
+* My smartphone journey, olauncher, timers don't work, acknowledging usefulness, dnd, notifications
 * Fitbit vs Casio
 * improve about page
 

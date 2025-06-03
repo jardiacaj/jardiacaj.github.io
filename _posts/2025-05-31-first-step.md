@@ -5,14 +5,14 @@ date:   2025-05-31
 categories: blog
 tags: blog
 published: true
+title_image: "/assets/first-step.png"
 ---
-
-{:refdef: style="text-align: center;"}
-![First step](/assets/first-step.png)
-{: refdef}
 
 Life is a collection of journeys. This one starts here. It'll be fun.
 
+{:refdef: style="text-align: center;"}
+![First step]({{ page.title_image }})
+{: refdef}
 
 I've had journals and blogs before. This time, it's different: I've never shared them attached to my actual name before.
 
@@ -34,7 +34,9 @@ I've noticed a welcome change in my habits, one I've strived for but struggled t
 
 It's an indictment of this age how much time we collectively spend on entertainment, especially on the phone. It's always present, always a tap away, to the point where we can [amuse ourselves to death](https://en.m.wikipedia.org/wiki/Amusing_Ourselves_to_Death).
 
-And at the end of too many days, I just felt tired and empty, with my brain echoing the noise I fed it. The colorful screen gets tapped, or the terrifying news get opened, often without making a conscious choice. Yes, it's entertaining, even interesting and educational. Life is spent engaged in distractions engineered by others without our own interests in mind, with little meaning -- nothing learned actually sticks. The ability to focus fades away.
+And at the end of too many days, I just felt tired and empty, with my brain echoing the noise I fed it. The colorful screen gets tapped, or the terrifying news get opened, once again, often without making a conscious choice. Yes, it's entertaining, even interesting and educational. Life is spent engaged in distractions engineered by others without our own interests in mind, with little meaning -- nothing learned actually sticks.
+
+The ability to focus fades away.
 
 And I don't miss cigarettes at all.
 
