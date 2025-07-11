@@ -19,3 +19,4 @@ permalink: /ideas
 
 Prompts:
 * Help me improve the writing style without changing the tone. Especially correct typos, grammatical errors, and such.
+* Can you suggest how to make it more concise?
